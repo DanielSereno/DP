@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Energy_Comparator
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Energy_up\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=character1\ character2
+comment1.target=int\ compare(Character,\ Character)
+numComments=2

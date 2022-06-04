@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=House
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ House\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name
+comment1.target=House(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ House\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ @return\ House`s\ name\r\n
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\r\n\ Set\ house`s\ name\r\n
+comment4.params=order
+comment4.target=void\ setOrder(Order)
+comment5.params=character
+comment5.target=void\ insertCharacter(Character)
+comment5.text=\r\n\ Insert\ the\ character\ AT\ THE\ END\ OF\ THE\ LIST\r\n
+comment6.params=
+comment6.target=java.util.ArrayList\ getCharacter()
+comment6.text=\r\n\ \r\n
+comment7.params=
+comment7.target=Character\ sendCharacter()
+comment7.text=\r\n\ Send\ the\ first\ character\ of\ the\ list\ and\ delete\ it\ from\ \r\n\ the\ list\r\n
+numComments=8

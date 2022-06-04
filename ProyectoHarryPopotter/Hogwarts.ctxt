@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Hogwarts
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Hogwarts\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=orderEnergy
+comment1.target=Hogwarts(Energy_up)
+comment2.params=
+comment2.target=void\ Duel()
+numComments=3
